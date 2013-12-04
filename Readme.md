@@ -1,3 +1,11 @@
+LeapMotion Tests
+================
+
+Just some code to try out the LeapMotion device API
+
+Licence
+=======
+
     LeapMotionTests
     Copyright (C) 2013 Kim Richmond
 
